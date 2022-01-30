@@ -1,0 +1,17 @@
+/* body {
+    background: url(wpwallpaper2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+*/
+
+body {
+    background-color: #1D4979;
+    background-image: url(wpwallpaper2.jpg);
+    min-height: 100vh;
+    min-width: 100vw;
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+}
