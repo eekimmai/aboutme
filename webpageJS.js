@@ -1,1 +1,2 @@
-let hello = "Hello World";
+/* This JavaScript file to provide functionality to personal Webpage
+*/

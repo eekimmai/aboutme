@@ -1,12 +1,4 @@
-/* body {
-    background: url(wpwallpaper2.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-*/
-
-body {
+#body1 {
     background-color: #1D4979;
     background-image: url(wpwallpaper2.jpg);
     min-height: 100vh;
@@ -14,4 +6,35 @@ body {
     background-size: cover;
     background-position: center;    
     background-repeat: no-repeat;
+}
+
+#body2 {
+  background-color: rgb(59, 134, 219);
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(124, 168, 252);
+  opacity: 0.7;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(166, 213, 235);
 }
