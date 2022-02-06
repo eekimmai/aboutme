@@ -1,5 +1,5 @@
 #body1 {
-    background-color: #1D4979;
+    background-color: #ddad28;
     background-image: url(wpwallpaper.jpg);
     min-height: 100vh;
     min-width: 100vw;
@@ -9,12 +9,12 @@
 }
 
 #body2 {
-  background-color: rgb(59, 134, 219);
+  background-color: rgb(230, 195, 84;
   background-size: cover;
 }
 
 .active {
-  background-color: rgb(55, 43, 235);
+  background-color: rgb(231, 162, 35);
 }
 
 .textColor {
