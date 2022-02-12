@@ -1,5 +1,5 @@
 #body1 {
-    background-color: #d8be4a;
+    background-color: #1A1A24;
     background-image: url(wpwallpaper.jpg);
     min-height: 100vh;
     min-width: 100vw;
@@ -9,12 +9,12 @@
 }
 
 #body2 {
-  background-color: rgb(230, 195, 84);
+  background-color: #1A1A24;
   background-size: cover;
 }
 
 .active {
-  background-color: rgb(231, 162, 35);
+  background-color: rgb(86, 59, 52);
 }
 
 .textColor {
@@ -26,8 +26,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(230, 195, 84);
-  opacity: 0.7;
+  background-color: rgba(89, 65, 61, 0.384);
 }
 
 li {
@@ -44,5 +43,5 @@ li a {
 }
 
 li a:hover {
-  background-color: rgb(231, 162, 35);
+  background-color: rgba(89, 65, 61, 0.712);
 }
