@@ -50,6 +50,7 @@ li a:hover {
 }
 
 #cvStyle {
-  display: block;
-  align-items: right;
+  height: 80vh;
+  width: 55%;
+  border: 1px solid #aca8a877;
 }
